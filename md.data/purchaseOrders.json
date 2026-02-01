@@ -1,0 +1,29 @@
+[
+  {
+    "id": "PO-260126-001",
+    "supplierId": "SUP-01",
+    "supplierName": "EGE PROFİL",
+    "status": "sent",
+    "createdAt": "2026-01-26T14:17:11.710702",
+    "sentAt": "2026-01-27T21:44:56.629737",
+    "expectedDate": "2026-01-31",
+    "completedAt": null,
+    "items": [
+      {
+        "productCode": "18300",
+        "colorCode": "3",
+        "productName": "",
+        "quantity": 5.0,
+        "unit": "boy",
+        "unitCost": 0.0,
+        "id": "POI-36E8F5C8",
+        "receivedQty": 0
+      }
+    ],
+    "deliveries": [],
+    "totalAmount": 0,
+    "notes": "aa",
+    "createdBy": "Sistem",
+    "relatedJobs": []
+  }
+]
